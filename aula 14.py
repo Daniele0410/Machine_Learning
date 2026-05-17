@@ -13,3 +13,4 @@ altura = dados['Altura']
 type(altura)
 
 dados['Sexo'].value_counts()
+
